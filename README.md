@@ -4,7 +4,7 @@ Starter code in Workshop2_Starter!
 
 ## Led by Rich Park (rich.park@vanderbilt.edu)
 
-### What You Will Learn
+## What You Will Learn
 
 - JavaScript
 - Creating dynamic webpages with user input

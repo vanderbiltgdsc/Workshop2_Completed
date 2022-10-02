@@ -4,11 +4,21 @@ Starter code in Workshop2_Starter!
 
 ## Led by Rich Park (rich.park@vanderbilt.edu)
 
+### What You Will Learn
+
+- JavaScript
+- Creating dynamic webpages with user input
+- API's
+
 ## Technologies
 
 - JavaScript
 - CSS
 - HTML
+
+## What You Will Accomplish
+
+- Beautiful Weather App using OpenWeatherMap's API
 
 ## Resources Used
 
